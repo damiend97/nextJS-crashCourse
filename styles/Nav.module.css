@@ -1,0 +1,16 @@
+.nav {
+    background: #2c2c2c;
+    padding: 20px;
+}
+.nav ul {
+    display: flex;
+
+}
+.nav li {
+    list-style-type: none;
+}
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
